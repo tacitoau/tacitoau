@@ -1,12 +1,4 @@
 <p align="center">
-🎓FORMAÇÃO ACADÊMICA🎓<br><br>
-Tecnólogo em Sistemas para Internet<br>
-Tecnólogo em Análise e Desenvolvimento de Sistemas<br>
-Bacharelado em Sistemas de Informação<br>
-Pós-Graduação em Engenharia de Software<br><br>
- </p>
- 
-<p align="center">
 <a href="https://github.com/tacitoau">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tacitoau&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tacitoau&layout=compact&langs_count=7&theme=react"/>
