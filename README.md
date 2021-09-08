@@ -3,20 +3,18 @@
 ### Formação Acadêmica:
 
 - 🎓 Técnico em Redes de Computadores
-- 🎓 Graduado em Gestão da Tecnologia da Informação
 - 🎓 Graduado em Sistema para Internet
+- 🎓 Graduado em Gestão da Tecnologia da Informação
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas
 - 🎓 Graduando em Ciências Contábeis
+- 🎓 Graduando em Engenharia de Software
 - 🎓 Graduando em Sistemas de Informação
-- 🎓 Graduando em Engenharia de Software 
 - 🎓 Pós-Graduando em Marketing Digital
 - 🎓 Pós-Graduando em Gestão de Projetos
 - 🎓 Pós-Graduando em Engenharia de Software
 - 🎓 Pós-Graduando em Ciência de Dados e Big Data Analytics
 
 ___________________________________________________________________________________________________________________________________________________________________________________
-
-### Stats:
 
 <p align="center">
 <a href="https://github.com/tacitoau">
@@ -26,8 +24,6 @@ ________________________________________________________________________________
 </p>
 
 ___________________________________________________________________________________________________________________________________________________________________________________
-
-### Competências:
 
 <p align="center"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
