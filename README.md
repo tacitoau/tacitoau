@@ -1,5 +1,3 @@
-### Olá! Me chamo Tácito Augusto, tenho 21 anos e sou estudante de tecnologia!
-
 ### Formação Acadêmica:
 
 - 🎓 Técnico em Redes de Computadores
