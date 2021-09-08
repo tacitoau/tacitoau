@@ -1,16 +1,16 @@
-### Formação Acadêmica:
+### 🎓 Formação Acadêmica:
 
-🎓 Técnico em Redes de Computadores
-🎓 Graduado em Sistema para Internet
-🎓 Graduado em Gestão da Tecnologia da Informação
-🎓 Graduando em Análise e Desenvolvimento de Sistemas
-🎓 Graduando em Ciências Contábeis
-🎓 Graduando em Engenharia de Software
-🎓 Graduando em Sistemas de Informação
-🎓 Pós-Graduando em Marketing Digital
-🎓 Pós-Graduando em Gestão de Projetos
-🎓 Pós-Graduando em Engenharia de Software
-🎓 Pós-Graduando em Ciência de Dados e Big Data Analytics
+- Técnico em Redes de Computadores
+- Graduado em Sistema para Internet
+- Graduado em Gestão da Tecnologia da Informação
+- Graduando em Análise e Desenvolvimento de Sistemas
+- Graduando em Ciências Contábeis
+- Graduando em Engenharia de Software
+- Graduando em Sistemas de Informação
+- Pós-Graduando em Marketing Digital
+- Pós-Graduando em Gestão de Projetos
+- Pós-Graduando em Engenharia de Software
+- Pós-Graduando em Ciência de Dados e Big Data Analytics
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
