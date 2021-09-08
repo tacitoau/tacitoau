@@ -1,4 +1,6 @@
-### Olá! Me chamo Tácito Augusto, tenho 21 anos, sou estudante de tecnologia e microempreendedor individual!
+### Olá! Me chamo Tácito Augusto, tenho 21 anos e sou estudante de tecnologia!
+
+### Formação Acadêmica:
 
 - 🎓 Técnico em Redes de Computadores
 - 🎓 Graduado em Gestão da Tecnologia da Informação
@@ -14,6 +16,8 @@
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
+### Stats:
+
 <p align="center">
 <a href="https://github.com/tacitoau">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tacitoau&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -22,6 +26,8 @@ ________________________________________________________________________________
 </p>
 
 ___________________________________________________________________________________________________________________________________________________________________________________
+
+### Competências:
 
 <p align="center"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
