@@ -1,7 +1,7 @@
 ### 🎓 Formação Acadêmica:
 
 - Técnico em Redes de Computadores
-- Graduando em Sistemas para Internet
+- Graduado em Sistemas para Internet
 - Graduado em Gestão da Tecnologia da Informação
 - Graduando em Análise e Desenvolvimento de Sistemas
 - Graduando em Ciências Contábeis
