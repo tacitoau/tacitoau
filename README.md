@@ -6,7 +6,7 @@
 - Graduando em Análise e Desenvolvimento de Sistemas
 - Bacharelando em Engenharia de Software
 - Bacharelando em Sistemas de Informação
-- Pós-Graduando MBA em Engenharia de Software
+- Pós-Graduando em Engenharia de Software
 - Pós-Graduando em Gestão de Projetos
 - Pós-Graduando em Segurança da Informação
 
