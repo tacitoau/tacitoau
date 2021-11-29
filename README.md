@@ -8,8 +8,8 @@
 - Bacharelando em Sistemas de Informação
 - Pós-Graduando em Engenharia de Software
 - Pós-Graduando em Gestão de Projetos
-- Pós-Graduando em Segurança Defensiva
 - Pós-Graduando em Segurança Ofensiva
+- Pós-Graduando em Segurança Defensiva
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
