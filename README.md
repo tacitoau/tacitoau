@@ -4,12 +4,14 @@
 - Graduado em Sistemas para Internet
 - Graduado em Gestão da Tecnologia da Informação
 - Graduado em Análise e Desenvolvimento de Sistemas
+- Bacharelando em Ciências Contábeis
 - Bacharelando em Engenharia de Software
 - Bacharelando em Sistemas de Informação
-- Pós-Graduado em Gestão de Projetos
+- Especialização em Gestão de Projetos
+- Especialização em Engenharia de Software
 - Pós-Graduando em Segurança Ofensiva
 - Pós-Graduando em Segurança Defensiva
-- MBA em Engenharia de Software
+- Mestrando em Ciência da Computação
 - Mestrando em Propriedade Intelectual
 ___________________________________________________________________________________________________________________________________________________________________________________
 
