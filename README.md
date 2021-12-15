@@ -3,7 +3,7 @@
 - Técnico em Redes de Computadores
 - Graduado em Sistemas para Internet
 - Graduado em Gestão da Tecnologia da Informação
-- Graduando em Análise e Desenvolvimento de Sistemas
+- Graduado em Análise e Desenvolvimento de Sistemas
 - Bacharelando em Engenharia de Software
 - Bacharelando em Sistemas de Informação
 - Pós-Graduado em Gestão de Projetos
