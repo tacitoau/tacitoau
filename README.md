@@ -3,14 +3,16 @@
 - Técnico em Redes de Computadores
 - Graduado em Sistemas para Internet
 - Graduado em Gestão da Tecnologia da Informação
-- Graduado em Análise e Desenvolvimento de Sistemas
+- Graduando em Análise e Desenvolvimento de Sistemas
 - Bacharelando em Ciências Contábeis
 - Bacharelando em Engenharia de Software
 - Bacharelando em Sistemas de Informação
-- Especialização em Gestão de Projetos
-- Especialização em Engenharia de Software
-- Pós-Graduando em Segurança Ofensiva
-- Pós-Graduando em Segurança Defensiva
+- Especialista em Gestão de Projetos
+- Especialização em Ciência de Dados e Big Data Analytics
+- Especialização em Segurança Ofensiva
+- Especialização em Segurança Defensiva
+- Master Business Administration em Engenharia de Software
+- Master Business Administration em Marketing Digital
 - Mestrando em Ciência da Computação
 - Mestrando em Propriedade Intelectual
 ___________________________________________________________________________________________________________________________________________________________________________________
