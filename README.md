@@ -13,8 +13,8 @@
 - Especialização em Segurança Defensiva
 - Master Business Administration em Engenharia de Software
 - Master Business Administration em Marketing Digital
-- Mestrando em Ciência da Computação
-- Mestrando em Propriedade Intelectual
+- Mestrando em Ciência da Computação (Linha de Pesquisa: Redes de Computadores e Sistemas Distribuídos)
+- Mestrando em Propriedade Intelectual (Linha de Pesquisa: Propriedade Intelectual e seu Papel no Desenvolvimento Tecnológico)
 ___________________________________________________________________________________________________________________________________________________________________________________
 
 ### 💼 Skills:
