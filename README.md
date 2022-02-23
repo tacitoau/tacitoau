@@ -8,13 +8,12 @@
 - Bacharelando em Engenharia de Software
 - Bacharelando em Sistemas de Informação
 - Especialista em Gestão de Projetos
-- Especialização em Ciência de Dados e Big Data Analytics
+- Especialista em Ciência de Dados e Big Data Analytics
 - Especialização em Segurança Ofensiva
 - Especialização em Segurança Defensiva
 - Master Business Administration em Engenharia de Software
 - Master Business Administration em Marketing Digital
-- Mestrando em Ciência da Computação (Linha de Pesquisa: Redes de Computadores e Sistemas Distribuídos)
-- Mestrando em Propriedade Intelectual (Linha de Pesquisa: Propriedade Intelectual e seu Papel no Desenvolvimento Tecnológico)
+- Mestrando em Ciência da Computação
 ___________________________________________________________________________________________________________________________________________________________________________________
 
 ### 💼 Skills:
