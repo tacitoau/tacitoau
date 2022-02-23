@@ -7,10 +7,10 @@
 - Bacharelando em Ciências Contábeis
 - Bacharelando em Engenharia de Software
 - Bacharelando em Sistemas de Informação
-- Especialista em Gestão de Projetos
-- Especialista em Marketing Digital
-- Especialista em Engenharia de Software
-- Especialista em Ciência de Dados e Big Data Analytics
+- Pós-Graduado em Gestão de Projetos
+- Pós-Graduado em Marketing Digital - MBA
+- Pós-Graduado em Engenharia de Software - MBA
+- Pós-Graduado em Ciência de Dados e Big Data Analytics
 - Pós-Graduando em Segurança Ofensiva e Inteligência Cibernética
 - Pós-Graduando em Segurança Defensiva – Blue Team Operations
 - Master Business Administration em Engenharia de Software
