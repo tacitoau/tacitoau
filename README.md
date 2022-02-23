@@ -9,8 +9,8 @@
 - Bacharelando em Sistemas de Informação
 - Especialista em Gestão de Projetos
 - Especialista em Ciência de Dados e Big Data Analytics
-- Especialização em Segurança Ofensiva
-- Especialização em Segurança Defensiva
+- Especialização em Segurança Ofensiva e Inteligência Cibernética
+- Especialização em Segurança Defensiva – Blue Team Operations
 - Master Business Administration em Engenharia de Software
 - Master Business Administration em Marketing Digital
 - Mestrando em Ciência da Computação
