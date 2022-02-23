@@ -13,8 +13,6 @@
 - Pós-Graduado em Ciência de Dados e Big Data Analytics
 - Pós-Graduando em Segurança Ofensiva e Inteligência Cibernética
 - Pós-Graduando em Segurança Defensiva – Blue Team Operations
-- Master Business Administration em Engenharia de Software
-- Master Business Administration em Marketing Digital
 - Mestrando em Ciência da Computação
 ___________________________________________________________________________________________________________________________________________________________________________________
 
