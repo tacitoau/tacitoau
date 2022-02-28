@@ -1,19 +1,19 @@
 ### 🎓 Formação Acadêmica:
 
-- Técnico em Redes de Computadores
-- Graduado em Sistemas para Internet
-- Graduado em Gestão da Tecnologia da Informação
-- Graduando em Análise e Desenvolvimento de Sistemas
-- Bacharelando em Ciências Contábeis
-- Bacharelando em Engenharia de Software
-- Bacharelando em Sistemas de Informação
-- Pós-Graduado em Gestão de Projetos
-- Pós-Graduado em Marketing Digital - MBA
-- Pós-Graduado em Engenharia de Software - MBA
-- Pós-Graduado em Ciência de Dados e Big Data Analytics
-- Pós-Graduando em Segurança Ofensiva e Inteligência Cibernética
-- Pós-Graduando em Segurança Defensiva – Blue Team Operations
-- Mestrando em Ciência da Computação
+- Técnico em Redes de Computadores (2015 - 2017)
+- Graduado em Sistemas para Internet (2020 - 2021)
+- Graduado em Gestão da Tecnologia da Informação (2019 - 2021)
+- Graduando em Análise e Desenvolvimento de Sistemas (2021 - 2022)
+- Bacharelando em Ciências Contábeis (2020 - 2023)
+- Bacharelando em Engenharia de Software (2021 - 2022)
+- Bacharelando em Sistemas de Informação (2019 - 2023)
+- Master Business Administration em Marketing Digital (2021 - 2022)
+- Master Business Administration em Engenharia de Software (2021 - 2022)
+- Especialista em Gestão de Projetos (2021 - 2022)
+- Especialista Ciência de Dados e Big Data Analytics (2021 - 2022)
+- Pós-Graduando em Segurança Ofensiva e Inteligência Cibernética (2021 - 2022)
+- Pós-Graduando em Segurança Defensiva – Blue Team Operations (2021 - 2022)
+- Mestrando em Ciência da Computação (2022 - 2023)
 ___________________________________________________________________________________________________________________________________________________________________________________
 
 ### 💼 Skills:
