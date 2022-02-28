@@ -10,7 +10,7 @@
 - Master Business Administration em Marketing Digital (2021 - 2022)
 - Master Business Administration em Engenharia de Software (2021 - 2022)
 - Especialista em Gestão de Projetos (2021 - 2022)
-- Especialista Ciência de Dados e Big Data Analytics (2021 - 2022)
+- Especialista em Ciência de Dados e Big Data Analytics (2021 - 2022)
 - Pós-Graduando em Segurança Ofensiva e Inteligência Cibernética (2021 - 2022)
 - Pós-Graduando em Segurança Defensiva – Blue Team Operations (2021 - 2022)
 - Mestrando em Ciência da Computação (2022 - 2023)
