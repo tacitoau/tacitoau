@@ -28,6 +28,5 @@ ________________________________________________________________________________
 <p align="center"><br>
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-   <img align="center" alt="Perl" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg">
+  <img align="center" alt="Perl" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg">
 </p>
