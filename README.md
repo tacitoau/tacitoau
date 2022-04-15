@@ -14,7 +14,7 @@
 - Pós-Graduando em Segurança Defensiva – Blue Team Operations (2021 - 2022)
 - Pós-Graduando em Segurança Ofensiva e Inteligência Cibernética (2021 - 2022)
 - Pós-Graduando em Inteligência Artificial, Machine Learning e Data Science (2022 - 2023)
-- Mestrando em Ciência da Computação na Linha de Pesquisa Redes de Computadores e Sistemas Distribuídos (2022 - 2023)
+- Mestrando em Ciência da Computação, Linha de Pesquisa: Redes de Computadores e Sistemas Distribuídos (2022 - 2023)
 ___________________________________________________________________________________________________________________________________________________________________________________
 
 ### 💼 Skills:
